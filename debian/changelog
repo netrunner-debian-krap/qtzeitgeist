@@ -1,0 +1,5 @@
+qtzeitgeist (0.7.0-1) UNRELEASED; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Lisandro Damián Nicanor Pérez Meyer <perezmeyer@gmail.com>  Sun, 15 May 2011 16:47:29 -0300
