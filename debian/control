@@ -1,0 +1,51 @@
+Source: qtzeitgeist
+Priority: extra
+Maintainer: Debian Krap Maintainers <debian-qt-kde@lists.debian.org>
+Uploaders: Lisandro Damián Nicanor Pérez Meyer <perezmeyer@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~), cmake
+Standards-Version: 3.9.1
+Section: libs
+Homepage: http://zeitgeist-project.com/
+Vcs-Git: git://git.debian.org/pkg-kde/krap/qtzeitgeist.git
+Vcs-Browser: http://git.debian.org/?p=pkg-kde/krap/qtzeitgeist.git;a=summary
+
+Package: libqtzeitgeist0
+Section: libs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: wrapper library around the Zeitgeist DBus API for Qt
+ Zeitgeist is a service which logs the user's activities and notifications,
+ anywhere from files opened to websites visited and conversations, and makes
+ this information readily available for other applications to use. It is also
+ able to establish relationships between items based on similarity and usage 
+ patterns.
+ .
+ libQZeitgeist is a wrapper library around the Zeitgeist DBus API for Qt.
+
+Package: libqtzeitgeist0-dbg
+Section: libdevel
+Architecture: any
+Depends: libqtzeitgeist0 (= ${binary:Version})
+Description: debugging symbols for libqtzeitgeist
+ Zeitgeist is a service which logs the user's activities and notifications,
+ anywhere from files opened to websites visited and conversations, and makes
+ this information readily available for other applications to use. It is also
+ able to establish relationships between items based on similarity and usage 
+ patterns.
+ .
+ This package provides the debugging symbols for libqtzeitgeist.
+
+
+Package: libqtzeitgeist-dev
+Section: libdevel
+Architecture: any
+Depends: libqtzeitgeist0 (= ${binary:Version})
+Description: development files for libqtzeitgeist.
+ Zeitgeist is a service which logs the user's activities and notifications,
+ anywhere from files opened to websites visited and conversations, and makes
+ this information readily available for other applications to use. It is also
+ able to establish relationships between items based on similarity and usage 
+ patterns.
+ .
+ This package provides the development files for libqtzeitgeist.
+
