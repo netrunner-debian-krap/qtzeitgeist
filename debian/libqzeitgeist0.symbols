@@ -1,5 +1,5 @@
 # SymbolsHelper-Confirmed: 0.7.0 amd64
-libqzeitgeist.so.0 libqzeitgeist #MINVER#
+libqzeitgeist.so.0 libqzeitgeist0 #MINVER#
  (optional=templinst)_Z19qDBusMarshallHelperI5QListIN11QtZeitgeist9DataModel10DataSourceEEEvR13QDBusArgumentPKT_@Base 0.7.0
  (optional=templinst)_Z19qDBusMarshallHelperI5QListIN11QtZeitgeist9DataModel5EventEEEvR13QDBusArgumentPKT_@Base 0.7.0
  (optional=templinst)_Z19qDBusMarshallHelperI5QListIjEEvR13QDBusArgumentPKT_@Base 0.7.0
