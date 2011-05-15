@@ -24,7 +24,7 @@ Description: wrapper library around the Zeitgeist DBus API for Qt
 Package: libqtzeitgeist0-dbg
 Section: libdevel
 Architecture: any
-Depends: libqtzeitgeist0 (= ${binary:Version})
+Depends: libqtzeitgeist0 (= ${binary:Version}), ${misc:Depends}
 Description: debugging symbols for libqtzeitgeist
  Zeitgeist is a service which logs the user's activities and notifications,
  anywhere from files opened to websites visited and conversations, and makes
@@ -38,7 +38,7 @@ Description: debugging symbols for libqtzeitgeist
 Package: libqtzeitgeist-dev
 Section: libdevel
 Architecture: any
-Depends: libqtzeitgeist0 (= ${binary:Version})
+Depends: libqtzeitgeist0 (= ${binary:Version}), ${misc:Depends}
 Description: development files for libqtzeitgeist.
  Zeitgeist is a service which logs the user's activities and notifications,
  anywhere from files opened to websites visited and conversations, and makes
