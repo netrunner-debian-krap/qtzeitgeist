@@ -10,7 +10,6 @@ Vcs-Git: git://git.debian.org/pkg-kde/krap/qtzeitgeist.git
 Vcs-Browser: http://git.debian.org/?p=pkg-kde/krap/qtzeitgeist.git;a=summary
 
 Package: libqtzeitgeist0
-Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: wrapper library around the Zeitgeist DBus API for Qt
