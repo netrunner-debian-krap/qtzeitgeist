@@ -3,7 +3,7 @@ Priority: extra
 Maintainer: Debian Krap Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Lisandro Damián Nicanor Pérez Meyer <perezmeyer@gmail.com>
 Build-Depends: debhelper (>= 7.0.50~), cmake
-Standards-Version: 3.9.1
+Standards-Version: 3.9.2
 Section: libs
 Homepage: http://zeitgeist-project.com/
 Vcs-Git: git://git.debian.org/pkg-kde/krap/qtzeitgeist.git
