@@ -4,4 +4,4 @@
 #export DH_VERBOSE=1
 
 %:
-	dh $@ --parallel --dbg-package=libqtzeitgeist0-dbg
+	dh $@ --parallel --dbg-package=libqzeitgeist0-dbg
