@@ -1,46 +1,5 @@
 # SymbolsHelper-Confirmed: 0.7.0 amd64
 libqzeitgeist.so.0 libqzeitgeist0 #MINVER#
- (optional=templinst)_Z19qDBusMarshallHelperI5QListIN11QtZeitgeist9DataModel10DataSourceEEEvR13QDBusArgumentPKT_@Base 0.7.0
- (optional=templinst)_Z19qDBusMarshallHelperI5QListIN11QtZeitgeist9DataModel5EventEEEvR13QDBusArgumentPKT_@Base 0.7.0
- (optional=templinst)_Z19qDBusMarshallHelperI5QListIjEEvR13QDBusArgumentPKT_@Base 0.7.0
- (optional=templinst)_Z19qDBusMarshallHelperIN11QtZeitgeist9DataModel10DataSourceEEvR13QDBusArgumentPKT_@Base 0.7.0
- (optional=templinst)_Z19qDBusMarshallHelperIN11QtZeitgeist9DataModel5EventEEvR13QDBusArgumentPKT_@Base 0.7.0
- (optional=templinst)_Z19qDBusMarshallHelperIN11QtZeitgeist9DataModel9TimeRangeEEvR13QDBusArgumentPKT_@Base 0.7.0
- (optional=templinst)_Z21qDBusDemarshallHelperI5QListIN11QtZeitgeist9DataModel10DataSourceEEEvRK13QDBusArgumentPT_@Base 0.7.0
- (optional=templinst)_Z21qDBusDemarshallHelperI5QListIN11QtZeitgeist9DataModel5EventEEEvRK13QDBusArgumentPT_@Base 0.7.0
- (optional=templinst)_Z21qDBusDemarshallHelperI5QListIjEEvRK13QDBusArgumentPT_@Base 0.7.0
- (optional=templinst)_Z21qDBusDemarshallHelperIN11QtZeitgeist9DataModel10DataSourceEEvRK13QDBusArgumentPT_@Base 0.7.0
- (optional=templinst)_Z21qDBusDemarshallHelperIN11QtZeitgeist9DataModel5EventEEvRK13QDBusArgumentPT_@Base 0.7.0
- (optional=templinst)_Z21qDBusDemarshallHelperIN11QtZeitgeist9DataModel9TimeRangeEEvRK13QDBusArgumentPT_@Base 0.7.0
- (optional=templinst)_Z21qMetaTypeDeleteHelperI15QDBusObjectPathEvPT_@Base 0.7.0
- (optional=templinst)_Z21qMetaTypeDeleteHelperI5QListIN11QtZeitgeist9DataModel10DataSourceEEEvPT_@Base 0.7.0
- (optional=templinst)_Z21qMetaTypeDeleteHelperI5QListIN11QtZeitgeist9DataModel5EventEEEvPT_@Base 0.7.0
- (optional=templinst)_Z21qMetaTypeDeleteHelperI5QListIjEEvPT_@Base 0.7.0
- (optional=templinst)_Z21qMetaTypeDeleteHelperIN11QtZeitgeist9DataModel10DataSourceEEvPT_@Base 0.7.0
- (optional=templinst)_Z21qMetaTypeDeleteHelperIN11QtZeitgeist9DataModel5EventEEvPT_@Base 0.7.0
- (optional=templinst)_Z21qMetaTypeDeleteHelperIN11QtZeitgeist9DataModel9TimeRangeEEvPT_@Base 0.7.0
- (optional=templinst)_Z24qMetaTypeConstructHelperI15QDBusObjectPathEPvPKT_@Base 0.7.0
- (optional=templinst)_Z24qMetaTypeConstructHelperI5QListIN11QtZeitgeist9DataModel10DataSourceEEEPvPKT_@Base 0.7.0
- (optional=templinst)_Z24qMetaTypeConstructHelperI5QListIN11QtZeitgeist9DataModel5EventEEEPvPKT_@Base 0.7.0
- (optional=templinst)_Z24qMetaTypeConstructHelperI5QListIjEEPvPKT_@Base 0.7.0
- (optional=templinst)_Z24qMetaTypeConstructHelperIN11QtZeitgeist9DataModel10DataSourceEEPvPKT_@Base 0.7.0
- (optional=templinst)_Z24qMetaTypeConstructHelperIN11QtZeitgeist9DataModel5EventEEPvPKT_@Base 0.7.0
- (optional=templinst)_Z24qMetaTypeConstructHelperIN11QtZeitgeist9DataModel9TimeRangeEEPvPKT_@Base 0.7.0
- _ZN10QByteArrayD1Ev@Base 0.7.0
- _ZN10QByteArrayD2Ev@Base 0.7.0
- _ZN11QStringListD1Ev@Base 0.7.0
- _ZN11QStringListD2Ev@Base 0.7.0
- _ZN11QtZeitgeist10LogPrivate14monitorIdIndexE@Base 0.7.0
- _ZN11QtZeitgeist14MonitorPrivate11qt_metacallEN11QMetaObject4CallEiPPv@Base 0.7.0
- _ZN11QtZeitgeist14MonitorPrivate11qt_metacastEPKc@Base 0.7.0
- _ZN11QtZeitgeist14MonitorPrivate12NotifyDeleteERKNS_9DataModel9TimeRangeERK5QListIjE@Base 0.7.0
- _ZN11QtZeitgeist14MonitorPrivate12NotifyInsertERKNS_9DataModel9TimeRangeERK5QListINS1_5EventEE@Base 0.7.0
- _ZN11QtZeitgeist14MonitorPrivate16staticMetaObjectE@Base 0.7.0
- _ZN11QtZeitgeist14MonitorPrivateC1EyNS_9DataModel9TimeRangeE5QListINS1_5EventEEPNS_7MonitorE@Base 0.7.0
- _ZN11QtZeitgeist14MonitorPrivateC2EyNS_9DataModel9TimeRangeE5QListINS1_5EventEEPNS_7MonitorE@Base 0.7.0
- _ZN11QtZeitgeist14MonitorPrivateD0Ev@Base 0.7.0
- _ZN11QtZeitgeist14MonitorPrivateD1Ev@Base 0.7.0
- _ZN11QtZeitgeist14MonitorPrivateD2Ev@Base 0.7.0
  _ZN11QtZeitgeist18DataSourceRegistry11qt_metacallEN11QMetaObject4CallEiPPv@Base 0.7.0
  _ZN11QtZeitgeist18DataSourceRegistry11qt_metacastEPKc@Base 0.7.0
  _ZN11QtZeitgeist18DataSourceRegistry14getDataSourcesEv@Base 0.7.0
@@ -72,7 +31,6 @@ libqzeitgeist.so.0 libqzeitgeist0 #MINVER#
  _ZN11QtZeitgeist3LogD0Ev@Base 0.7.0
  _ZN11QtZeitgeist3LogD1Ev@Base 0.7.0
  _ZN11QtZeitgeist3LogD2Ev@Base 0.7.0
- _ZN11QtZeitgeist4initEv@Base 0.7.0
  _ZN11QtZeitgeist7Monitor11qt_metacallEN11QMetaObject4CallEiPPv@Base 0.7.0
  _ZN11QtZeitgeist7Monitor11qt_metacastEPKc@Base 0.7.0
  _ZN11QtZeitgeist7Monitor13eventsDeletedERKNS_9DataModel9TimeRangeERK5QListIjE@Base 0.7.0
@@ -148,89 +106,6 @@ libqzeitgeist.so.0 libqzeitgeist0 #MINVER#
  _ZN11QtZeitgeist9DataModel9TimeRangeD1Ev@Base 0.7.0
  _ZN11QtZeitgeist9DataModel9TimeRangeD2Ev@Base 0.7.0
  _ZN11QtZeitgeist9DataModel9TimeRangeaSERKS1_@Base 0.7.0
- _ZN11QtZeitgeist9DataModellsER13QDBusArgumentRKNS0_10DataSourceE@Base 0.7.0
- _ZN11QtZeitgeist9DataModellsER13QDBusArgumentRKNS0_5EventE@Base 0.7.0
- _ZN11QtZeitgeist9DataModellsER13QDBusArgumentRKNS0_9TimeRangeE@Base 0.7.0
- _ZN11QtZeitgeist9DataModelrsERK13QDBusArgumentRNS0_10DataSourceE@Base 0.7.0
- _ZN11QtZeitgeist9DataModelrsERK13QDBusArgumentRNS0_5EventE@Base 0.7.0
- _ZN11QtZeitgeist9DataModelrsERK13QDBusArgumentRNS0_9TimeRangeE@Base 0.7.0
- _ZN14MonitorAdaptor11qt_metacallEN11QMetaObject4CallEiPPv@Base 0.7.0
- _ZN14MonitorAdaptor11qt_metacastEPKc@Base 0.7.0
- _ZN14MonitorAdaptor12NotifyDeleteERKN11QtZeitgeist9DataModel9TimeRangeERK5QListIjE@Base 0.7.0
- _ZN14MonitorAdaptor12NotifyInsertERKN11QtZeitgeist9DataModel9TimeRangeERK5QListINS1_5EventEE@Base 0.7.0
- _ZN14MonitorAdaptor16staticMetaObjectE@Base 0.7.0
- _ZN14MonitorAdaptorC1EP7QObject@Base 0.7.0
- _ZN14MonitorAdaptorC2EP7QObject@Base 0.7.0
- _ZN14MonitorAdaptorD0Ev@Base 0.7.0
- _ZN14MonitorAdaptorD1Ev@Base 0.7.0
- _ZN14MonitorAdaptorD2Ev@Base 0.7.0
- _ZN29OrgGnomeZeitgeistLogInterface11qt_metacallEN11QMetaObject4CallEiPPv@Base 0.7.0
- _ZN29OrgGnomeZeitgeistLogInterface11qt_metacastEPKc@Base 0.7.0
- _ZN29OrgGnomeZeitgeistLogInterface16staticMetaObjectE@Base 0.7.0
- _ZN29OrgGnomeZeitgeistLogInterfaceC1ERK7QStringS2_RK15QDBusConnectionP7QObject@Base 0.7.0
- _ZN29OrgGnomeZeitgeistLogInterfaceC2ERK7QStringS2_RK15QDBusConnectionP7QObject@Base 0.7.0
- _ZN29OrgGnomeZeitgeistLogInterfaceD0Ev@Base 0.7.0
- _ZN29OrgGnomeZeitgeistLogInterfaceD1Ev@Base 0.7.0
- _ZN29OrgGnomeZeitgeistLogInterfaceD2Ev@Base 0.7.0
- _ZN35OrgGnomeZeitgeistBlacklistInterface11qt_metacallEN11QMetaObject4CallEiPPv@Base 0.7.0
- _ZN35OrgGnomeZeitgeistBlacklistInterface11qt_metacastEPKc@Base 0.7.0
- _ZN35OrgGnomeZeitgeistBlacklistInterface16staticMetaObjectE@Base 0.7.0
- _ZN35OrgGnomeZeitgeistBlacklistInterfaceC1ERK7QStringS2_RK15QDBusConnectionP7QObject@Base 0.7.0
- _ZN35OrgGnomeZeitgeistBlacklistInterfaceC2ERK7QStringS2_RK15QDBusConnectionP7QObject@Base 0.7.0
- _ZN35OrgGnomeZeitgeistBlacklistInterfaceD0Ev@Base 0.7.0
- _ZN35OrgGnomeZeitgeistBlacklistInterfaceD1Ev@Base 0.7.0
- _ZN35OrgGnomeZeitgeistBlacklistInterfaceD2Ev@Base 0.7.0
- _ZN44OrgGnomeZeitgeistDataSourceRegistryInterface11qt_metacallEN11QMetaObject4CallEiPPv@Base 0.7.0
- _ZN44OrgGnomeZeitgeistDataSourceRegistryInterface11qt_metacastEPKc@Base 0.7.0
- _ZN44OrgGnomeZeitgeistDataSourceRegistryInterface16staticMetaObjectE@Base 0.7.0
- _ZN44OrgGnomeZeitgeistDataSourceRegistryInterface17DataSourceEnabledERK7QStringb@Base 0.7.0
- _ZN44OrgGnomeZeitgeistDataSourceRegistryInterface20DataSourceRegisteredERKN11QtZeitgeist9DataModel10DataSourceE@Base 0.7.0
- _ZN44OrgGnomeZeitgeistDataSourceRegistryInterface22DataSourceDisconnectedERKN11QtZeitgeist9DataModel10DataSourceE@Base 0.7.0
- _ZN44OrgGnomeZeitgeistDataSourceRegistryInterfaceC1ERK7QStringS2_RK15QDBusConnectionP7QObject@Base 0.7.0
- _ZN44OrgGnomeZeitgeistDataSourceRegistryInterfaceC2ERK7QStringS2_RK15QDBusConnectionP7QObject@Base 0.7.0
- _ZN44OrgGnomeZeitgeistDataSourceRegistryInterfaceD0Ev@Base 0.7.0
- _ZN44OrgGnomeZeitgeistDataSourceRegistryInterfaceD1Ev@Base 0.7.0
- _ZN44OrgGnomeZeitgeistDataSourceRegistryInterfaceD2Ev@Base 0.7.0
- (optional=templinst)_ZN5QListI11QStringListE13detach_helperEi@Base 0.7.0
- (optional=templinst)_ZN5QListI11QStringListE18detach_helper_growEii@Base 0.7.0
- (optional=templinst)_ZN5QListI11QStringListE5clearEv@Base 0.7.0
- (optional=templinst)_ZN5QListI11QStringListE6appendERKS0_@Base 0.7.0
- (optional=templinst)_ZN5QListI11QStringListED1Ev@Base 0.7.0
- (optional=templinst)_ZN5QListI11QStringListED2Ev@Base 0.7.0
- (optional=templinst)_ZN5QListI7QStringE13detach_helperEi@Base 0.7.0
- (optional=templinst)_ZN5QListI7QStringE18detach_helper_growEii@Base 0.7.0
- (optional=templinst)_ZN5QListI7QStringE6appendERKS0_@Base 0.7.0
- (optional=templinst)_ZN5QListI8QVariantE18detach_helper_growEii@Base 0.7.0
- (optional=templinst)_ZN5QListI8QVariantE6appendERKS0_@Base 0.7.0
- (optional=templinst)_ZN5QListI8QVariantED1Ev@Base 0.7.0
- (optional=templinst)_ZN5QListI8QVariantED2Ev@Base 0.7.0
- (optional=templinst)_ZN5QListIN11QtZeitgeist9DataModel10DataSourceEE13detach_helperEi@Base 0.7.0
- (optional=templinst)_ZN5QListIN11QtZeitgeist9DataModel10DataSourceEE18detach_helper_growEii@Base 0.7.0
- (optional=templinst)_ZN5QListIN11QtZeitgeist9DataModel10DataSourceEE5clearEv@Base 0.7.0
- (optional=templinst)_ZN5QListIN11QtZeitgeist9DataModel10DataSourceEE6appendERKS2_@Base 0.7.0
- (optional=templinst)_ZN5QListIN11QtZeitgeist9DataModel10DataSourceEED1Ev@Base 0.7.0
- (optional=templinst)_ZN5QListIN11QtZeitgeist9DataModel10DataSourceEED2Ev@Base 0.7.0
- (optional=templinst)_ZN5QListIN11QtZeitgeist9DataModel5EventEE13detach_helperEi@Base 0.7.0
- (optional=templinst)_ZN5QListIN11QtZeitgeist9DataModel5EventEE18detach_helper_growEii@Base 0.7.0
- (optional=templinst)_ZN5QListIN11QtZeitgeist9DataModel5EventEE5clearEv@Base 0.7.0
- (optional=templinst)_ZN5QListIN11QtZeitgeist9DataModel5EventEE6appendERKS2_@Base 0.7.0
- (optional=templinst)_ZN5QListIN11QtZeitgeist9DataModel5EventEED1Ev@Base 0.7.0
- (optional=templinst)_ZN5QListIN11QtZeitgeist9DataModel5EventEED2Ev@Base 0.7.0
- (optional=templinst)_ZN5QListIN11QtZeitgeist9DataModel7SubjectEE13detach_helperEi@Base 0.7.0
- (optional=templinst)_ZN5QListIN11QtZeitgeist9DataModel7SubjectEE18detach_helper_growEii@Base 0.7.0
- (optional=templinst)_ZN5QListIN11QtZeitgeist9DataModel7SubjectEE6appendERKS2_@Base 0.7.0
- (optional=templinst)_ZN5QListIN11QtZeitgeist9DataModel7SubjectEED1Ev@Base 0.7.0
- (optional=templinst)_ZN5QListIN11QtZeitgeist9DataModel7SubjectEED2Ev@Base 0.7.0
- (optional=templinst)_ZN5QListIjE13detach_helperEi@Base 0.7.0
- (optional=templinst)_ZN5QListIjE13detach_helperEv@Base 0.7.0
- (optional=templinst)_ZN5QListIjE18detach_helper_growEii@Base 0.7.0
- (optional=templinst)_ZN5QListIjE5clearEv@Base 0.7.0
- (optional=templinst)_ZN5QListIjE6appendERKj@Base 0.7.0
- (optional=templinst)_ZN5QListIjED1Ev@Base 0.7.0
- (optional=templinst)_ZN5QListIjED2Ev@Base 0.7.0
- _ZN7QStringD1Ev@Base 0.7.0
- _ZN7QStringD2Ev@Base 0.7.0
- _ZNK11QtZeitgeist14MonitorPrivate10metaObjectEv@Base 0.7.0
  _ZNK11QtZeitgeist18DataSourceRegistry10metaObjectEv@Base 0.7.0
  _ZNK11QtZeitgeist3Log10metaObjectEv@Base 0.7.0
  _ZNK11QtZeitgeist7Monitor10metaObjectEv@Base 0.7.0
@@ -265,15 +140,6 @@ libqzeitgeist.so.0 libqzeitgeist0 #MINVER#
  _ZNK11QtZeitgeist9DataModel9TimeRange10metaObjectEv@Base 0.7.0
  _ZNK11QtZeitgeist9DataModel9TimeRange3endEv@Base 0.7.0
  _ZNK11QtZeitgeist9DataModel9TimeRange5beginEv@Base 0.7.0
- _ZNK14MonitorAdaptor10metaObjectEv@Base 0.7.0
- _ZNK29OrgGnomeZeitgeistLogInterface10metaObjectEv@Base 0.7.0
- _ZNK35OrgGnomeZeitgeistBlacklistInterface10metaObjectEv@Base 0.7.0
- _ZNK44OrgGnomeZeitgeistDataSourceRegistryInterface10metaObjectEv@Base 0.7.0
- _ZTI14MonitorAdaptor@Base 0.7.0
- _ZTI29OrgGnomeZeitgeistLogInterface@Base 0.7.0
- _ZTI35OrgGnomeZeitgeistBlacklistInterface@Base 0.7.0
- _ZTI44OrgGnomeZeitgeistDataSourceRegistryInterface@Base 0.7.0
- _ZTIN11QtZeitgeist14MonitorPrivateE@Base 0.7.0
  _ZTIN11QtZeitgeist18DataSourceRegistryE@Base 0.7.0
  _ZTIN11QtZeitgeist3LogE@Base 0.7.0
  _ZTIN11QtZeitgeist7MonitorE@Base 0.7.0
@@ -281,11 +147,6 @@ libqzeitgeist.so.0 libqzeitgeist0 #MINVER#
  _ZTIN11QtZeitgeist9DataModel5EventE@Base 0.7.0
  _ZTIN11QtZeitgeist9DataModel7SubjectE@Base 0.7.0
  _ZTIN11QtZeitgeist9DataModel9TimeRangeE@Base 0.7.0
- _ZTS14MonitorAdaptor@Base 0.7.0
- _ZTS29OrgGnomeZeitgeistLogInterface@Base 0.7.0
- _ZTS35OrgGnomeZeitgeistBlacklistInterface@Base 0.7.0
- _ZTS44OrgGnomeZeitgeistDataSourceRegistryInterface@Base 0.7.0
- _ZTSN11QtZeitgeist14MonitorPrivateE@Base 0.7.0
  _ZTSN11QtZeitgeist18DataSourceRegistryE@Base 0.7.0
  _ZTSN11QtZeitgeist3LogE@Base 0.7.0
  _ZTSN11QtZeitgeist7MonitorE@Base 0.7.0
@@ -293,11 +154,6 @@ libqzeitgeist.so.0 libqzeitgeist0 #MINVER#
  _ZTSN11QtZeitgeist9DataModel5EventE@Base 0.7.0
  _ZTSN11QtZeitgeist9DataModel7SubjectE@Base 0.7.0
  _ZTSN11QtZeitgeist9DataModel9TimeRangeE@Base 0.7.0
- _ZTV14MonitorAdaptor@Base 0.7.0
- _ZTV29OrgGnomeZeitgeistLogInterface@Base 0.7.0
- _ZTV35OrgGnomeZeitgeistBlacklistInterface@Base 0.7.0
- _ZTV44OrgGnomeZeitgeistDataSourceRegistryInterface@Base 0.7.0
- _ZTVN11QtZeitgeist14MonitorPrivateE@Base 0.7.0
  _ZTVN11QtZeitgeist18DataSourceRegistryE@Base 0.7.0
  _ZTVN11QtZeitgeist3LogE@Base 0.7.0
  _ZTVN11QtZeitgeist7MonitorE@Base 0.7.0
@@ -305,10 +161,3 @@ libqzeitgeist.so.0 libqzeitgeist0 #MINVER#
  _ZTVN11QtZeitgeist9DataModel5EventE@Base 0.7.0
  _ZTVN11QtZeitgeist9DataModel7SubjectE@Base 0.7.0
  _ZTVN11QtZeitgeist9DataModel9TimeRangeE@Base 0.7.0
- (optional=templinst)_ZZN11QMetaTypeIdI15QDBusObjectPathE14qt_metatype_idEvE11metatype_id@Base 0.7.0
- (optional=templinst)_ZZN11QMetaTypeIdI5QListIN11QtZeitgeist9DataModel10DataSourceEEE14qt_metatype_idEvE11metatype_id@Base 0.7.0
- (optional=templinst)_ZZN11QMetaTypeIdI5QListIN11QtZeitgeist9DataModel5EventEEE14qt_metatype_idEvE11metatype_id@Base 0.7.0
- (optional=templinst)_ZZN11QMetaTypeIdI5QListIjEE14qt_metatype_idEvE11metatype_id@Base 0.7.0
- (optional=templinst)_ZZN11QMetaTypeIdIN11QtZeitgeist9DataModel10DataSourceEE14qt_metatype_idEvE11metatype_id@Base 0.7.0
- (optional=templinst)_ZZN11QMetaTypeIdIN11QtZeitgeist9DataModel5EventEE14qt_metatype_idEvE11metatype_id@Base 0.7.0
- (optional=templinst)_ZZN11QMetaTypeIdIN11QtZeitgeist9DataModel9TimeRangeEE14qt_metatype_idEvE11metatype_id@Base 0.7.0
