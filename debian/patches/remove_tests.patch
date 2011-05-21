@@ -1,0 +1,19 @@
+From: Lisandro Damián Nicanor Pérez Meyer <perezmeyer@gmail.com>
+Subject: disable the compilation of tests.
+
+The tests FTBFS when the following flags are set up:
+
+CXXFLAGS+=-fvisibility=hidden -fvisibility-inlines-hidden
+
+As we are not shipping the tests, I'm disabling them.
+
+--- a/CMakeLists.txt
++++ b/CMakeLists.txt
+@@ -43,7 +43,6 @@
+ 
+ add_subdirectory(include)
+ add_subdirectory(src)
+-add_subdirectory(tests)
+ 
+ # Generate cmake file
+ get_target_property(QZEITGEIST_LIBRARY qzeitgeist LOCATION)
