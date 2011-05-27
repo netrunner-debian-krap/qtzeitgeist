@@ -1,4 +1,4 @@
-qtzeitgeist (0.7.0-1) UNRELEASED; urgency=low
+qtzeitgeist (0.7.0-1) unstable; urgency=low
 
   * Initial release (Closes: #626848)
 
