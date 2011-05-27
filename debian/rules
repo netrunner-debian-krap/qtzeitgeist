@@ -5,3 +5,6 @@
 
 %:
 	dh $@ --parallel --dbg-package=libqzeitgeist0-dbg
+
+override_dh_install:
+	dh_install --list-missing
