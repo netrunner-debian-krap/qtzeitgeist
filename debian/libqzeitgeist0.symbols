@@ -31,6 +31,7 @@ libqzeitgeist.so.0 libqzeitgeist0 #MINVER#
  _ZN11QtZeitgeist3LogD0Ev@Base 0.7.0
  _ZN11QtZeitgeist3LogD1Ev@Base 0.7.0
  _ZN11QtZeitgeist3LogD2Ev@Base 0.7.0
+ _ZN11QtZeitgeist4initEv@Base 0.7.0
  _ZN11QtZeitgeist7Monitor11qt_metacallEN11QMetaObject4CallEiPPv@Base 0.7.0
  _ZN11QtZeitgeist7Monitor11qt_metacastEPKc@Base 0.7.0
  _ZN11QtZeitgeist7Monitor13eventsDeletedERKNS_9DataModel9TimeRangeERK5QListIjE@Base 0.7.0
@@ -106,6 +107,12 @@ libqzeitgeist.so.0 libqzeitgeist0 #MINVER#
  _ZN11QtZeitgeist9DataModel9TimeRangeD1Ev@Base 0.7.0
  _ZN11QtZeitgeist9DataModel9TimeRangeD2Ev@Base 0.7.0
  _ZN11QtZeitgeist9DataModel9TimeRangeaSERKS1_@Base 0.7.0
+ _ZN11QtZeitgeist9DataModellsER13QDBusArgumentRKNS0_10DataSourceE@Base 0.7.0
+ _ZN11QtZeitgeist9DataModellsER13QDBusArgumentRKNS0_5EventE@Base 0.7.0
+ _ZN11QtZeitgeist9DataModellsER13QDBusArgumentRKNS0_9TimeRangeE@Base 0.7.0
+ _ZN11QtZeitgeist9DataModelrsERK13QDBusArgumentRNS0_10DataSourceE@Base 0.7.0
+ _ZN11QtZeitgeist9DataModelrsERK13QDBusArgumentRNS0_5EventE@Base 0.7.0
+ _ZN11QtZeitgeist9DataModelrsERK13QDBusArgumentRNS0_9TimeRangeE@Base 0.7.0
  _ZNK11QtZeitgeist18DataSourceRegistry10metaObjectEv@Base 0.7.0
  _ZNK11QtZeitgeist3Log10metaObjectEv@Base 0.7.0
  _ZNK11QtZeitgeist7Monitor10metaObjectEv@Base 0.7.0
