@@ -22,7 +22,7 @@ Description: wrapper library around the Zeitgeist DBus API for Qt
  .
  libQZeitgeist is a wrapper library around the Zeitgeist DBus API for Qt.
 
-Package: libqzeitgeist0-dbg
+Package: libqzeitgeist-dbg
 Section: debug
 Architecture: any
 Depends: libqzeitgeist0 (= ${binary:Version}), ${misc:Depends}
