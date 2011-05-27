@@ -4,7 +4,7 @@
 #export DH_VERBOSE=1
 
 %:
-	dh $@ --parallel --dbg-package=libqzeitgeist0-dbg
+	dh $@ --parallel --dbg-package=libqzeitgeist-dbg
 
 override_dh_install:
 	dh_install --list-missing
