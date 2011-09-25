@@ -1,3 +1,9 @@
+qtzeitgeist (0.7.0-2) UNRELEASED; urgency=low
+
+
+
+ -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Sun, 25 Sep 2011 15:14:01 -0300
+
 qtzeitgeist (0.7.0-1) unstable; urgency=low
 
   * Initial release (Closes: #626848)
