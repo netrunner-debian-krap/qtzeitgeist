@@ -9,6 +9,8 @@ qtzeitgeist (0.8.0-1) UNRELEASED; urgency=low
   [ Modestas Vainius ]
   * Drop visibility_hidden.diff, merged upstream.
   * Build-depend on automoc.
+  * Bump debhelper compat level to 9 in order to pull in build flags into
+    build environment.
 
  -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Sun, 25 Sep 2011 15:14:01 -0300
 
