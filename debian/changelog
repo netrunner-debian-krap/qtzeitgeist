@@ -1,5 +1,8 @@
-qtzeitgeist (0.7.0-2) UNRELEASED; urgency=low
+qtzeitgeist (0.8.0-1) UNRELEASED; urgency=low
 
+  * New upstream release.
+
+  [ Lisandro Damián Nicanor Pérez Meyer ]
   * Change my email address.
   * Remove DM-Upload-Allowed flag. It is no longer needed.
 
