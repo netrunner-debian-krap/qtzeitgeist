@@ -11,6 +11,7 @@ qtzeitgeist (0.8.0-1) UNRELEASED; urgency=low
   * Build-depend on automoc.
   * Bump debhelper compat level to 9 in order to pull in build flags into
     build environment.
+  * Add myself to Uploaders.
 
  -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Sun, 25 Sep 2011 15:14:01 -0300
 

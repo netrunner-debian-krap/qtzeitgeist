@@ -1,7 +1,7 @@
 Source: qtzeitgeist
 Priority: extra
 Maintainer: Debian Krap Maintainers <debian-qt-kde@lists.debian.org>
-Uploaders: Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>
+Uploaders: Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>, Modestas Vainius <modax@debian.org>
 Build-Depends: debhelper (>= 9), cmake, libqt4-dev, automoc (>= 1.0~version-0.9.88)
 Standards-Version: 3.9.2
 Section: libs
