@@ -6,6 +6,9 @@ qtzeitgeist (0.8.0-1) UNRELEASED; urgency=low
   * Change my email address.
   * Remove DM-Upload-Allowed flag. It is no longer needed.
 
+  [ Modestas Vainius ]
+  * Drop visibility_hidden.diff, merged upstream.
+
  -- Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>  Sun, 25 Sep 2011 15:14:01 -0300
 
 qtzeitgeist (0.7.0-1) unstable; urgency=low
